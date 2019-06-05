@@ -1,0 +1,12 @@
+100 Math
+200 Physic
+131 Chemistry
+145 Biology
+101 Computer
+567 Laboratory
+349 Algebra
+372 Linear
+453 Training
+243 Tennis
+232 Astronomy
+767 Music
